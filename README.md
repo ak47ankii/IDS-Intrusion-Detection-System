@@ -79,10 +79,6 @@ To run this project locally, follow these steps:
 
 
 
-### Dashboard
-
-![IDS Dashboard](screenshots/dashboard.png)
-
 
 ## Files
 
