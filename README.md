@@ -30,8 +30,8 @@ To run this project locally, follow these steps:
 1. **Clone the repository**:
 
     ```bash
-    git clone 
-    cd your-repo-name
+    git clone https://github.com/ak47ankii/IDS-Intrusion-Detection-System.git
+   
     ```
 
 2. **Install dependencies**:
